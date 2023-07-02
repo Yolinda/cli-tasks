@@ -5,8 +5,3 @@ A CLI Task or To-Do List manager using Python and Argparse. This simple applicat
 Run the command below to install the required Python packages.
 
 ``` pip install -r requirements.txt ```
-
-## Features
-- [ ] 
-
-https://realpython.com/python-typer-cli/
